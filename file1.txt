@@ -3,3 +3,4 @@ new line in my bash script
 #!/bin/bash
 sudo apt install skypeforlinux
 sudo apt add repository
+new command
